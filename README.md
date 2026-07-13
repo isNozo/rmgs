@@ -2,9 +2,9 @@
 
 工場シミュレーションやコロニーシミュレーションのようなゲームにおけるリソースの生産や加工といった行動を、ガントチャートのように時間軸上でタスクを配置しながら計画・検証することを目的としたツール
 
-# sv
+## SvelteKit (frontend)
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+This repository uses SvelteKit (created via `sv`) with Tailwind CSS, Prettier and ESLint.
 
 ## Creating a project
 

@@ -6,21 +6,9 @@
 
 This repository uses SvelteKit (created via `sv`) with Tailwind CSS, Prettier and ESLint.
 
-## Creating a project
+## Getting started
 
-If you're seeing this, you've probably already done this step. Congrats!
-
-```sh
-# create a new project
-npx sv create my-app
-```
-
-To recreate this project with the same configuration:
-
-```sh
-# recreate this project
-npx sv@0.16.3 create --template minimal --types ts --add prettier eslint tailwindcss="plugins:none" --install npm rmgs
-```
+This repository is already initialized. Install dependencies with `npm install`, then use the scripts below.
 
 ## Developing
 
